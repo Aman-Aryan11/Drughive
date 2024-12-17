@@ -1,0 +1,10 @@
+ligfile: data/example_data/substruct_mod/4w9f_ligand.sdf
+protfile: data/example_data/4w9f/4w9f_pocket.pdb
+mod_smi: Cc1ccc(-c2scnc2C)cc1
+mod_smarts: [#6]-[#6]1:[#6]:[#6]:[#6](:[#6]:[#6]:1)-[#6]1:[#16]:[#6]:[#7]:[#6]:1-[#6]
+n_samples: 10
+zbetas: [0.3, 0.3, 0.3, 0.3]
+temps: 1.0
+
+# failed: 3
+% failed: 23.1
