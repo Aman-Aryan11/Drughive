@@ -1,0 +1,2 @@
+data/example_data/5d3h/5d3h_pocket.pdb output/optimize_example/affinity_qvina_z3-1/mols_parent/mols_affinity_qvina_z3-1_opt_0/5d3h_mol_best_0.sdf
+data/example_data/5d3h/5d3h_pocket.pdb output/optimize_example/affinity_qvina_z3-1/mols_parent/mols_affinity_qvina_z3-1_opt_0/5d3h_mol_best_1.sdf

@@ -1,0 +1,7 @@
+n_samples: 100
+zbetas: 0.3
+temps: 1.0
+random_rot: True
+random_trans: False
+# failed: 463
+% failed: 82.2

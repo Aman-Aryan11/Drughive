@@ -1,0 +1,1 @@
+data/example_data/5d3h/5d3h_pocket.pdb data/example_data/5d3h/5d3h_ligand.sdf
