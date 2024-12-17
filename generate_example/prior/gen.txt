@@ -1,0 +1,7 @@
+n_samples: 10
+zbetas: [0.0, 0.0, 0.0, 0.0]
+temps: [0.5, 0.5, 0.5, 0.5]
+random_rot: True
+random_trans: False
+# failed: 0
+% failed: 0.0
